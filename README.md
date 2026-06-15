@@ -175,7 +175,7 @@ Fail clearly and recover automatically. Never silently corrupt data.
 - **[ARCHITECTURE.md](./architecture/ARCHITECTURE.md)** - System design
 - **[TECHNICAL_SPEC.md](./docs/TECHNICAL_SPEC.md)** - Specifications
 - **[DESIGN_DECISIONS.md](./case-studies/DESIGN_DECISIONS.md)** - Design rationale
-- **[CODE_EXAMPLES.md](./examples/CODE_EXAMPLES.md)** - Patterns
+- **[CODE_SAMPLES.md](./examples/CODE_SAMPLES.md)** - Patterns
 - **[DEPLOYMENT.md](./docs/DEPLOYMENT.md)** - Deployment procedures
 
 ---
