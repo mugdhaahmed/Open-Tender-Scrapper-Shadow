@@ -172,7 +172,7 @@ Fail clearly and recover automatically. Never silently corrupt data.
 
 ## 📚 Documentation
 
-- **[ARCHITECTURE.md](./docs/ARCHITECTURE.md)** - System design
+- **[ARCHITECTURE.md](./architecture/ARCHITECTURE.md)** - System design
 - **[TECHNICAL_SPEC.md](./docs/TECHNICAL_SPEC.md)** - Specifications
 - **[DESIGN_DECISIONS.md](./case-studies/DESIGN_DECISIONS.md)** - Design rationale
 - **[CODE_EXAMPLES.md](./examples/CODE_EXAMPLES.md)** - Patterns
